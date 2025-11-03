@@ -1,9 +1,9 @@
-
-print("my name is ilay and im 14 years old i live in naharya and i like to play tennis")
-
-
-
-
+name="ilay"
+age="14"
+school="ofek"
+print("hello my name is " + name+". ")
+print("and im " + age +" years old.")
+print("and i study in " + school +" school.")
 
 
 
